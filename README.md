@@ -7,14 +7,14 @@ I am an aspiring software engineer interested in Startups (SaaS, PropTech & FinT
 
 
 🔭 I’m currently working on ...
-  > My Portfolio
-  > Stinge
+  > 1. My Portfolio
+  > 2. Stinge
 
 
 🌱 I’m currently learning ...
-  > Javascript
-  > React
-  > Typescript
+  > 1. Javascript
+  > 2. React
+  > 3. Typescript
 
 🤔 I’m looking for help with ...
   > getting as many learning resources for for React and Typescript 🙂
