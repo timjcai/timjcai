@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 About Me
- > - I am an aspiring software engineer interested in Startups (SaaS, PropTech & FinTech)
- > - 😄 Pronouns: he/him
- > - 🏀 Hobbies: I love basketball, bouldering and my sausage dog
+- I am an aspiring software engineer interested in Startups (SaaS, PropTech & FinTech)
+- 😄 Pronouns: he/him
+- 🏀 Hobbies: I love basketball, bouldering and my sausage dog
 
 
 🔭 I’m currently working on ...
