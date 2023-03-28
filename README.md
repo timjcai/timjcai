@@ -6,7 +6,7 @@ About Me
 
 
 🔭 I’m currently working on ...
-  > 1. My Portfolio
+  > 1. Meditation Timer Chrome Extension App
   > 2. Stinge
 
 
