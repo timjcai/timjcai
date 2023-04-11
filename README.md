@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About Me
-- I am an aspiring software engineer interested in Startups (SaaS, PropTech & FinTech)
+- I am an aspiring software engineer interested in Startups (SaaS, FinTech & HealthTech)
 - 🏀 Hobbies: I love basketball, bouldering and my sausage dog
 
 
