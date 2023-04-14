@@ -6,7 +6,7 @@ About Me
 
 
 🔭 I’m currently working on ...
-  > 1. Basic Todolist App with streak features
+  > 1. Todolist App
 
 
 🌱 I’m currently learning ...
