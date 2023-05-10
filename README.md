@@ -6,14 +6,12 @@ About Me
 
 
 🔭 I’m currently working on ...
-  > 1. Todolist App
+  > 1. EatList - app to save and review restaurants that I want to try
+  > 2. Calorie Tracking App
 
 
 🌱 I’m currently learning ...
-  > 1. Building Fullstack applications with Javascript instead of using Rails
-  > 2. React/TS/Node/Express
-
-🤔 I’m looking for help with ...
-  > getting as many learning resources for for React and Typescript 🙂
+  > 1. React/TS
+  > 2. Building APIs with Node/Express/Rails
 
 
