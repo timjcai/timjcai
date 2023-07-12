@@ -13,7 +13,6 @@ About Me
 📚 What I'm learning
   > 1. React
   > 2. Typescript
-  > 3. CloudServers - AWS/Firestore
 
 🌱 Stack
 
